@@ -1,5 +1,5 @@
 ﻿# Grid-CSS3-Structure
-![Grid layout](Grid.gif)
+![Grid layout](Grid 2.gif)
 
 
 ***
