@@ -1,4 +1,7 @@
 ﻿# Grid-CSS3-Structure
+ 
+ #### Basic design structure with CSS3 Grid Layout and HTML5 
+ 
 ![Grid layout](Grid2.gif)
 
 
